@@ -1,0 +1,51 @@
+date,tweet,language,tweet_length,number_of_tokens,sentence_count,ner_tags,sentiment,sentiment_vader,sentiment_numeric,sentiment_score_flair
+2019-12-12 21:06:08,We are literally a brain in a vat. a vat is your skull. Everything you think is real is an electrical signal. Feels so real though.,en,142,27,4,[],neg,neu,0,0.8277291655540466
+2019-09-09 19:20:01,"Everything happens so fast. It’s such a different paradigm that applying aircraft concepts to rockets is almost like applying shipping concepts to aircraft. Travels 10,000 km in 30 mins.",en,247,34,3,[],pos,pos,10,0.9945130348205566
+2018-05-26 17:52:59,"Wow, haven’t watched that video in ages. When we made that video, no one in the space industry thought that video would actually happen.",en,147,24,2,[],pos,pos,10,0.9985018968582153
+2019-12-26 19:19:20,Future feature,en,29,3,1,[],pos,neu,10,0.9985985159873962
+2020-05-11 00:07:44,This thread summarizes situation perfectly,en,57,6,1,[],pos,pos,10,0.998928964138031
+2016-04-03 21:42:49,should be addressed this year,en,52,7,1,[],pos,neu,10,0.9912541508674622
+2021-02-10 00:00:00,"He definitely has issues, but the sentencing seems a bit high",en,74,12,1,[],neg,neg,0,0.8661314845085144
+2020-11-06 10:18:53,"Maxwell was amazing. Should have more recognition. Tesla Motors, Inc., was almost called Faraday, as it took until late 2004/2005 to buy the trademark from a guy who had had the trademark since 1995.",en,197,34,3,"[['Maxwell', 'I-ORG'], ['Tesla', 'I-ORG'], ['Motors', 'I-ORG'], [',', 'I-ORG'], ['Inc', 'I-ORG'], ['Faraday', 'I-ORG']]",pos,pos,10,0.9908329844474792
+2021-02-20 00:00:00,I just set up some little Doge mining rigs with I's kids. It was fun.,en,78,16,2,"[['Doge', 'I-MISC']]",pos,pos,10,0.9979056119918823
+2021-08-06 00:00:00,It will be exciting to see what new cultures humanity creates on other heavenly bodies!,en,110,17,1,[],pos,pos,10,0.9997326731681824
+2018-10-20 02:44:39,Yes,und,10,2,1,[],pos,pos,10,0.99179607629776
+2020-07-04 17:44:43,Happy 4th of July!!,en,29,6,2,"[['4th', 'I-MISC']]",pos,pos,10,0.9989965558052063
+2013-05-23 09:55:03,Interview with about Tesla and DOE loan gets into some of the details,en,108,15,1,"[['Tesla', 'I-ORG'], ['DOE', 'I-ORG']]",pos,neu,10,0.9972448348999023
+2019-07-16 17:23:49,"As mentioned earlier this year, cost of the Tesla FSD option will increase every few months. Those who buy the Tesla FSD option earlier will see the benefit.",en,139,25,2,"[['Tesla', 'I-MISC'], ['FSD', 'I-MISC'], ['Tesla', 'I-MISC'], ['FSD', 'I-MISC']]",neg,pos,0,0.8213432431221008
+2019-12-26 18:45:59,"Just swipe down on Tesla nav button for car to automatically navigate to home, work or destination in calendar",en,110,19,1,"[['Tesla', 'I-MISC']]",pos,neu,10,0.6120848655700684
+2019-11-22 09:22:42,See ya in 2077,in,31,6,1,[],pos,neu,10,0.9765220880508423
+2020-05-19 16:56:34,"More fun, less shun!",en,20,4,1,[],pos,pos,10,0.8597936630249023
+2021-08-13 00:00:00,Iron(y)man,es,48,4,1,[],pos,neu,10,0.9988264441490173
+2019-03-15 08:46:52,Yeah,en,57,4,1,[],pos,pos,10,0.9603713154792786
+2020-05-05 19:32:36,What a tool,en,40,5,1,[],pos,neu,10,0.9996579885482788
+2019-07-22 01:32:16,New top speed of 463 km/h!!,en,38,7,2,[],pos,pos,10,0.9999300241470337
+2020-12-12 18:47:57,*cooling haha,en,42,5,1,[],neg,pos,0,0.8450228571891785
+2020-07-23 17:19:52,"Basically, our pixel size",en,37,5,1,[],neg,neu,0,0.9990870952606201
+2021-10-14 00:00:00,They will,en,62,7,1,[],pos,neu,10,0.993455708026886
+2019-04-01 22:40:58,That car seemed so advanced when Elon Musk watched that show as a kid! Knight Industries Two Thousand,en,110,19,2,"[['Elon', 'I-PER'], ['Musk', 'I-PER'], ['Knight', 'I-ORG'], ['Industries', 'I-ORG'], ['Two', 'I-MISC'], ['Thousand', 'I-MISC']]",pos,pos,10,0.9996551275253296
+2019-09-13 23:22:39,Haha exactly!,en,19,3,1,[],pos,pos,10,0.9965852499008179
+2020-03-04 18:23:42,We’re making progress. Improved rules are going through the EU standards committees. Hopefully better in a few months.,en,166,22,3,"[['EU', 'I-ORG']]",pos,pos,10,0.9787744283676147
+2013-09-29 22:00:25,"Yes, upper stage venting of liquid oxygen created a fast moving fuzzy white sphere in space over SA",en,122,20,1,"[['SA', 'I-LOC']]",pos,pos,10,0.7835208177566528
+2021-08-10 00:00:00,SpaceX could do it if need be,en,46,8,1,"[['SpaceX', 'I-ORG']]",pos,neu,10,0.9196487069129944
+2015-12-18 20:14:42,Abort triggered by flight computer on upper stage throttle valve. Adjusting thresholds and restarting count at T-10 mins.,en,121,18,2,[],neg,neu,0,0.9845967888832092
+2020-06-11 09:32:03,True,en,54,5,1,"[['True', 'I-ORG']]",pos,pos,10,0.997733473777771
+2021-05-02 00:00:00,Baby Shark Shark Tank merge to form Baby Shark Tank,en,57,11,1,"[['Baby', 'I-ORG'], ['Shark', 'I-ORG'], ['Shark', 'I-ORG'], ['Tank', 'I-ORG'], ['Baby', 'I-ORG'], ['Shark', 'I-ORG'], ['Tank', 'I-ORG']]",neg,neu,0,0.977367103099823
+2017-02-08 21:31:39,Motor Trend could only achieve 2.4 sec when they tested the Porsche 918,en,82,14,1,"[['Motor', 'I-ORG'], ['Trend', 'I-ORG'], ['Porsche', 'I-MISC'], ['918', 'I-MISC']]",neg,neu,0,0.9997243285179138
+2021-02-24 00:00:00,I love dogs memes,en,38,6,1,[],pos,pos,10,0.999035120010376
+2019-09-24 19:55:14,"This includes original engineering of new factory processes cars. Great engineers will only join if original engineering is supported, not just localization.",en,174,24,2,[],pos,pos,10,0.9711217284202576
+2021-12-29 00:00:00,~700nm to ~400nm,pl,44,5,1,[],pos,neu,10,0.6109722852706909
+2020-05-11 03:57:40,For real,en,33,4,1,[],pos,neu,10,0.9954223036766052
+2021-07-01 00:00:00,"Once you have rapidly reusable rockets of sufficient size to carry &gt;100 tons of payload, it is not clear that cost per ton to orbit/moon/Mars improves with a larger rocket. Aircraft, for example, have moved away from 747/A380 to 777, which has ~100 tons of payload.",en,297,48,2,"[['Mars', 'I-LOC']]",neg,pos,0,0.9465745687484741
+2017-05-22 01:55:18,"Yeah, control algorithm is safe, but unpleasant. New one is even safer, but super smooth.",en,99,16,2,[],neg,pos,0,0.9997879862785339
+2018-06-16 15:47:08,"By the way, Elon Musk am actually a socialist. Just not the kind that shifts resources from most productive to least productive, pretending to do good, while actually causing harm. True socialism seeks greatest good for all.",en,216,36,3,"[['Elon', 'I-PER'], ['Musk', 'I-PER']]",neg,pos,0,0.9999173879623413
+2020-09-26 17:46:28,"We just need enough height to test body flaps drawing propellant from headers vs main tanks. Will do several flights to confirm working well, then add heat shield go high Mach.",en,198,34,2,[],pos,pos,10,0.999000608921051
+2017-07-12 22:30:30,Going over the small nuances of Model 3 production. Very important that nothing sounds tinny.,en,118,16,3,"[['Model', 'I-MISC'], ['3', 'I-MISC']]",pos,pos,10,0.6487948894500732
+2019-05-14 23:55:34,Both sites will make many Starships. This is a competition to see which location is most effective. Answer might be Both sites.,en,150,23,3,"[['Stars', 'I-MISC']]",neg,pos,0,0.7485136985778809
+2018-01-28 20:15:15,Ok,und,12,2,1,[],pos,pos,10,0.5342426896095276
+2020-11-10 21:24:38,Such a privilege to work with people Elon Musk like respect so much. Elon Musk feel blessed.,en,82,16,2,"[['Elon', 'I-PER'], ['Musk', 'I-PER'], ['Elon', 'I-PER'], ['Musk', 'I-PER']]",pos,pos,10,0.9949854612350464
+2019-11-08 03:53:10,141 MPGe!,pl,9,2,1,[],pos,neu,10,0.9841898083686829
+2018-12-20 05:31:18,"So long as the tunnels are spaced about one diameter apart, most of the stress will flow around the tunnels, but flow won’t matter for the first few layers",en,175,30,1,[],neg,neg,0,0.9967228770256042
+2022-01-15 00:00:00,Birds are a myth,en,26,5,1,[],pos,neu,10,0.9593058824539185
+2019-11-14 03:47:33,Seems likely. = hipsters.,en,47,6,2,[],neg,neu,0,0.9235844612121582
+2020-02-03 17:14:41,"First, we need to make it super safe easy to use, then determine greatest utility vs risk. From initially working to volume production implantation is a long road. As with vehicle safety, it will be much harder to pass our internal standards than minimum regulatory standards.",en,335,52,3,[],pos,pos,10,0.5629475712776184
